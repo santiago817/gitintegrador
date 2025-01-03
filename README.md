@@ -1,1 +1,1 @@
-"Proyecto intyegrador"
+"Proyecto integrador"
